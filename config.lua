@@ -8,3 +8,6 @@ RK.WeirdKeys = {
     121,
     344,
 }
+
+RK.Webhooklink = "webhookhere" -- Discord Webhook Link
+
